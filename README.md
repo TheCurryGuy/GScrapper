@@ -156,7 +156,7 @@ See LICENSE file for details.
 
 ## Contact
 Original Author: @thecurryguy
-Twitter: https://github.com/thecurryguy
+Github: https://github.com/thecurryguy
 
 Modified version with enhanced Google Scholar profile support and full pagination.
 
