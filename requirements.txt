@@ -1,0 +1,5 @@
+# Requirements detected from gscrapper.py
+# Standard library modules (csv, re, random, time, sys) are not listed.
+requests
+pandas
+beautifulsoup4
