@@ -51,7 +51,7 @@ pip install requests beautifulsoup4 pandas
 ### Quick Start
 1. Run the script:
    ```bash
-   python scrappaper.py
+   python gscrapper.py
    ```
 
 2. When prompted, paste one of the following URL types:
