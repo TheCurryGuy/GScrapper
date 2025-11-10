@@ -24,7 +24,7 @@ GScrapper is a Python web scraping tool designed to extract academic paper infor
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/TheCurryGuy/GScraper.git
+git clone https://github.com/TheCurryGuy/GScrapper.git
 cd GScrapper
 ```
 
